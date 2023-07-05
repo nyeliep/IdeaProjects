@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ARRAYS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assessment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assignment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flow-Control" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/INHERITANCE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KOTLIN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kotlin-Assessment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LIST" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OOP1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PRAC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STRINGS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/variables" vcs="Git" />
+  </component>
+</project>
